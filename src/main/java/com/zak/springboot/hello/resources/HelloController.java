@@ -1,4 +1,4 @@
-package com.zak.springboot.hello;
+package com.zak.springboot.hello.resources;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

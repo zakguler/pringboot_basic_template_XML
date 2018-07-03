@@ -1,4 +1,4 @@
-package com.zak.springboot.topic;
+package com.zak.springboot.jpa_topics.models;
 
 public class Topic {
 

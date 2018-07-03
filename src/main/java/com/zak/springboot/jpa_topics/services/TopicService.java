@@ -1,10 +1,12 @@
-package com.zak.springboot.topic;
+package com.zak.springboot.jpa_topics.services;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 import org.springframework.stereotype.Service;
+
+import com.zak.springboot.jpa_topics.models.Topic;
 
 @Service	//<================= business services are singleton
 public class TopicService {
